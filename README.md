@@ -1,1 +1,1 @@
-#30 Vanilla JavaScript Tutorials
+30 Vanilla JavaScript Tutorials
